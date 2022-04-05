@@ -1,0 +1,19 @@
+{
+  "name": "IunaServices_Bot",
+  "version": "1.0.0",
+  "description": "Bot que te manda HotWaifus",
+  "main": "iuna.js",
+  "dependencies": {
+    "telegraf": "^4.7.0"
+  },
+  "devDependencies": {
+    "telegraf": "^4.7.0"
+  },
+  "scripts": {
+    "dev": "nodemon iuna.js"
+    
+  },
+  "keywords": [],
+  "author": "ricksinmorty",
+  "license": "ISC"
+}
