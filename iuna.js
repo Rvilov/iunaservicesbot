@@ -4,7 +4,7 @@ const bot = new Telegraf("5176663392:AAFjFIMne8a174rxbI7Fxieupisq9doPUl4");
 
 bot.start((ctx) => {
 
-    ctx.reply("Welcome pervert")
+    ctx.reply("Hi");
 
 });
 
