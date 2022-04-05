@@ -16,4 +16,8 @@ bot.hears(["holis iuna","HOLIS IUNA","Holis iuna","Holis Iuna"], ctx => {
     ctx.reply("Holis "+ ctx.from.first_name)
 });
 
+bot.hears("Senpai", ctx => {
+    ctx.reply("SEMPAIII")
+});
+
 bot.launch();
